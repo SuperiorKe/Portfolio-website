@@ -4,7 +4,7 @@ A modern, responsive developer portfolio website built with React, TypeScript, a
 
 ## 🚀 Live Demo
 
-[Portfolio Website](https://kennmacharia.dev) *(Update with your Vercel deployment URL)*
+[Portfolio Website](https://kenn-portfolio-website.vercel.app/) 
 
 ## ✨ Features
 
